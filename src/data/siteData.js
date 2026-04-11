@@ -80,7 +80,7 @@ const siteData = {
     backgroundImages: [
       { url: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1920&q=85", alt: "Premium vehicle on open road" },
       { url: "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=1920&q=85", alt: "Luxury car in showroom lighting" },
-      { url: "https://images.unsplash.com/photo-1549317661-bd32c8ce0571?w=1920&q=85", alt: "Sports car on display" },
+      { url: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1920&q=85", alt: "Sports car on display" },
     ],
   },
 
@@ -123,7 +123,7 @@ const siteData = {
         slug: "vehicle-finance",
         desc: "We work with Zimbabwe's leading banks and micro-lenders to offer financing packages that fit your budget. From low-deposit options to flexible repayment terms, we make car ownership accessible.",
         features: ["Multiple Lenders", "Low Deposits", "Flexible Terms", "Quick Approval", "Self-Employed Friendly", "No Hidden Fees"],
-        image: "https://images.unsplash.com/photo-1549317661-bd32c8ce0571?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80",
       },
       {
         title: "After-Sales Service",
@@ -144,7 +144,7 @@ const siteData = {
         slug: "insurance-assistance",
         desc: "Driving off our lot without insurance is not an option. We partner with reputable insurers to get you comprehensive cover before you turn the key, with competitive quotes and hassle-free claims support.",
         features: ["Multiple Quotes", "Comprehensive Cover", "Third Party Options", "Claims Assistance", "Renewal Reminders", "Fleet Discounts"],
-        image: "https://images.unsplash.com/photo-1549317661-bd32c8ce0571?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80",
       },
     ],
   },
@@ -173,7 +173,7 @@ const siteData = {
         client: "Corporate Client",
         services: ["Service A", "Service B", "Service C"],
         image: "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=800&q=80",
-        images: ["https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=800&q=80", "https://images.unsplash.com/photo-1549317661-bd32c8ce0571?w=800&q=80"],
+        images: ["https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=800&q=80", "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80"],
       },
       {
         title: "First Car Programme",
@@ -183,8 +183,8 @@ const siteData = {
         desc: "Helped 50 first-time buyers secure vehicles with low-deposit financing through our banking partners.",
         client: "Individual Buyers",
         services: ["Service A", "Service B", "Service C"],
-        image: "https://images.unsplash.com/photo-1549317661-bd32c8ce0571?w=800&q=80",
-        images: ["https://images.unsplash.com/photo-1549317661-bd32c8ce0571?w=800&q=80", "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80"],
+        image: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80",
+        images: ["https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80", "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80"],
       },
       {
         title: "Trade-In Week Event",
@@ -206,7 +206,7 @@ const siteData = {
         client: "Import Clients",
         services: ["Service A", "Service B", "Service C"],
         image: "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=800&q=80",
-        images: ["https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=800&q=80", "https://images.unsplash.com/photo-1549317661-bd32c8ce0571?w=800&q=80"],
+        images: ["https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=800&q=80", "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80"],
       },
       {
         title: "Diplomatic Fleet Order",
@@ -216,8 +216,8 @@ const siteData = {
         desc: "Supplied and prepared 8 vehicles for a diplomatic mission, including armour assessment coordination.",
         client: "Embassy Client",
         services: ["Service A", "Service B", "Service C"],
-        image: "https://images.unsplash.com/photo-1549317661-bd32c8ce0571?w=800&q=80",
-        images: ["https://images.unsplash.com/photo-1549317661-bd32c8ce0571?w=800&q=80", "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80"],
+        image: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80",
+        images: ["https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80", "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80"],
       },
     ],
   },
